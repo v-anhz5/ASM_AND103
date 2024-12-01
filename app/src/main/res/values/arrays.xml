@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_array">
+        <item>Trái cây</item>
+        <item>Rau củ</item>
+        <item>Thịt</item>
+    </string-array>
+</resources>

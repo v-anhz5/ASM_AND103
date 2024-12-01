@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585524903935",
+    "project_id": "asmand103-e8632",
+    "storage_bucket": "asmand103-e8632.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585524903935:android:276c25083312c99361b1ca",
+        "android_client_info": {
+          "package_name": "fpoly.account.asm_and103"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-g87cq99SDy-Ri0_3ScGKl7g7QsWRsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
